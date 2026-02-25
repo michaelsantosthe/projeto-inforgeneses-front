@@ -98,3 +98,11 @@ npm run format
 
 # Limpar cache (se necessário)
 npm run clean
+
+<img width="1894" height="799" alt="image" src="https://github.com/user-attachments/assets/36a9f8c5-cb4c-4242-8c28-b2e835a0b692" />
+<img width="1894" height="799" alt="image" src="https://github.com/user-attachments/assets/2b1084a8-19de-46ff-9616-1febf87183af" />
+<img width="1894" height="799" alt="image" src="https://github.com/user-attachments/assets/42049bbd-e132-40a6-8025-fe06d41f11df" />
+<img width="1894" height="799" alt="image" src="https://github.com/user-attachments/assets/b737971f-b88d-4ebe-b7b7-9b60875431a7" />
+
+
+
